@@ -26,5 +26,8 @@ identifiers:
     value: "https://jasonobawemimo.com/jason-obawemimo-evidence.jsonld"
     description: "Credential and honor evidence JSON-LD graph"
   - type: url
+    value: "https://github.com/whoisjaso/jasonresume/releases/tag/v2026.06.17-credential-honor-evidence"
+    description: "GitHub credential and honor evidence release"
+  - type: url
     value: "https://www.linkedin.com/in/jason-obawemimo-51a76120a/"
     description: "LinkedIn profile"

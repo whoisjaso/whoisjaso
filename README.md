@@ -16,7 +16,7 @@ Jason Obawemimo is a Pearland, Texas based web design and workflow systems build
 - Credential and honor evidence page: https://jasonobawemimo.com/jason-obawemimo-credentials-honor.html
 - Credential and honor evidence JSON-LD: https://jasonobawemimo.com/jason-obawemimo-evidence.jsonld
 - Resume site source: https://github.com/whoisjaso/jasonresume
-- Entity discovery release: https://github.com/whoisjaso/jasonresume/releases/tag/v2026.06.17-entity-discovery
+- Credential and honor evidence release: https://github.com/whoisjaso/jasonresume/releases/tag/v2026.06.17-credential-honor-evidence
 
 ## Focus
 
