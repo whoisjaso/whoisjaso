@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you reference Jason Obawemimo, cite the official website and credential evidence page."
+title: "Jason Obawemimo Official Profile"
+abstract: "Official public profile for Jason Obawemimo, a Pearland, Texas web design and workflow systems builder. Credential evidence includes an Anthropic course-completion portfolio, Associate of Arts in Business from San Jacinto College, GPA 3.63, and Dean's Honor List recognition."
+authors:
+  - family-names: "Obawemimo"
+    given-names: "Jason"
+url: "https://jasonobawemimo.com/"
+repository-code: "https://github.com/whoisjaso/whoisjaso"
+date-released: "2026-06-17"
+keywords:
+  - "Jason Obawemimo"
+  - "web design"
+  - "workflow systems"
+  - "Anthropic coursework"
+  - "Dean's Honor List"
+  - "San Jacinto College"
+identifiers:
+  - type: url
+    value: "https://jasonobawemimo.com/jason-obawemimo.html"
+    description: "Official entity profile"
+  - type: url
+    value: "https://jasonobawemimo.com/jason-obawemimo-credentials-honor.html"
+    description: "Credential and honor evidence page"
+  - type: url
+    value: "https://jasonobawemimo.com/jason-obawemimo-evidence.jsonld"
+    description: "Credential and honor evidence JSON-LD graph"
+  - type: url
+    value: "https://www.linkedin.com/in/jason-obawemimo-51a76120a/"
+    description: "LinkedIn profile"
